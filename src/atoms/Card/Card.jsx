@@ -15,7 +15,7 @@ const Card = ({
   bottomWidth,
   bottomBg,
   childrenTop,
-  childrenBottom,
+  childrenBottom
 }) => {
   return (
     <StyledCard>
